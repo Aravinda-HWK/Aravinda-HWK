@@ -1,4 +1,3 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://i.gifer.com/SUV4.gif))](https://rishavchanda.io)a
 <h1 align="center">Hi 👋, I'm H.W.K.Aravinda</h1>
 <h3 align="center">Committed to intellectually analyzing complex algorithms, and comprehending the critical features of data analysis and computer architecture. I additionally enjoy working on projects in groups with my colleagues.</h3>
 
