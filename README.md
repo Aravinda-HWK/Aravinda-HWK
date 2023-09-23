@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm H.W.K.Aravinda</h1>
-<h3 align="center">Committed to intellectually analyzing complex algorithms, and comprehending the critical features of data analysis and computer architecture. I additionally enjoy working on projects in groups with my colleagues.</h3>
+<h3>Committed to intellectually analyzing complex algorithms, and comprehending the critical features of data analysis and computer architecture. I additionally enjoy working on projects in groups with my colleagues.</h3>
 
 
 
