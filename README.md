@@ -1,4 +1,4 @@
-Hi 👋, I'm H.W.K.Aravinda
+<h1 align="center">Hi 👋, I'm H.W.K.Aravinda</h1>
 Committed to intellectually analyzing complex algorithms, and comprehending the critical features of data analysis and computer architecture. I additionally enjoy working on projects in groups with my colleagues.
 
 
