@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm H.W.K.Aravinda</h1>
 Committed to intellectually analyzing complex algorithms, and comprehending the critical features of data analysis and computer architecture. I additionally enjoy working on projects in groups with my colleagues.
 
-![Alt Text](https://metro.co.uk/wp-content/uploads/2022/03/Cyberwarfare-is-the-battleground-of-the-21st-century-and-were-all-involved-BP-29e0.gif)
+<p align="center">
+  <img src="https://metro.co.uk/wp-content/uploads/2022/03/Cyberwarfare-is-the-battleground-of-the-21st-century-and-were-all-involved-BP-29e0.gif" alt="Alt Text" width="500" height="300">
+</p>
 
 - 🌱 I’m currently learning **Type Script, React Native and MongoDB**
 
