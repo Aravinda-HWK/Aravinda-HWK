@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm H.W.K.Aravinda</h1>
-Committed to intellectually analyzing complex algorithms, and comprehending the critical features of data analysis and computer architecture. I additionally enjoy working on projects in groups with my colleagues.
+I am a dedicated undergraduate student pursuing a B.Sc. Engineering (Honours) degree specialized in Computer Science and Engineering. A proactive and committed individual capable of applying academic knowledge to real-world problems, adapting to new situations, eagerly exploring new technologies, and working effectively in team environments.
 
 <p align="center">
-  <img src="https://metro.co.uk/wp-content/uploads/2022/03/Cyberwarfare-is-the-battleground-of-the-21st-century-and-were-all-involved-BP-29e0.gif" alt="Alt Text" width="500" height="300">
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Alt Text" width="500" height="300">
 </p>
 
 - 🌱 I’m currently working on my Final Year Project, which focuses on **Increasing the Cross-lingual Capabilities of Multilingual Large Language Models.**
