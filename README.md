@@ -18,7 +18,7 @@ I am a dedicated undergraduate student pursuing a B.Sc. Engineering (Honours) de
 <a href="https://linkedin.com/in/hwk-aravinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="h.w.k. aravinda" height="30" width="40" /></a>
 <a href="https://fb.com/h.w.k.aravinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="h.w.k.aravinda" height="30" width="40" /></a>
 <a href="https://instagram.com/h.w.k.aravinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h.w.k.aravinda" height="30" width="40" /></a>
-<a href="https://medium.com/@aravindahwk" target="_blank">
+<a href="https://medium.com/@aravindahwk" target="blank">
   <img align="center" 
        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" 
        alt="@your-username" 
