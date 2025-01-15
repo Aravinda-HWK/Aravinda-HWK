@@ -51,4 +51,6 @@ I am a dedicated undergraduate student pursuing a B.Sc. Engineering (Honours) de
              alt="Aravinda-HWK" />
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Aravinda-HWK&theme=dark&hide_border=true&border_radius=20&card_width=499" alt="GitHub Streak" /></a>
+<p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Aravinda-HWK&theme=dark&border_radius=5&card_width=499" alt="GitHub Streak" /></a>
+</p>
