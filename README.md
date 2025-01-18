@@ -7,7 +7,7 @@ I am a dedicated undergraduate student pursuing a B.Sc. Engineering (Honours) de
 
 - 🌱 I’m currently working on my Final Year Project, which focuses on **Increasing the Cross-lingual Capabilities of Multilingual Large Language Models.**
 
-- 💬 Ask me about **Python, Node.js ,Mysql**
+- 💬 Ask me about **Python, Java ,Mysql**
 
 - 📫 How to reach me **aravinda.20@cse.mrt.ac.lk**
 
