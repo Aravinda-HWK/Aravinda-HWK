@@ -13,6 +13,8 @@ I am a dedicated undergraduate student pursuing a B.Sc. Engineering (Honours) de
 
 - ⚡ Fun fact **I don't know anything, but I know something. Commitment will make my future.**
 
+- 💡 Motivation: **"If you want to buy things without looking at the price tag, don’t work looking at the clock."** ⏰💸
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hwk-aravinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="h.w.k. aravinda" height="30" width="40" /></a>
