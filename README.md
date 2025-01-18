@@ -9,7 +9,7 @@ I am a dedicated undergraduate student pursuing a B.Sc. Engineering (Honours) de
 
 - 💬 Ask me about **Python, Node.js ,Mysql**
 
-- 📫 How to reach me **aravindahwk@gmail.com**
+- 📫 How to reach me **aravinda.20@cse.mrt.ac.lk**
 
 - ⚡ Fun fact **I don't know anything, but I know something. Commitment will make my future.**
 
