@@ -11,7 +11,7 @@ I am a dedicated undergraduate student pursuing a B.Sc. Engineering (Honours) de
 
 - 📫 How to reach me **aravinda.20@cse.mrt.ac.lk**
 
-- ⚡ Fun fact **I don't know anything, but I know something. Commitment will make my future.**
+- ⚡ Fun fact **I don't know everything, but I know something. Commitment will make my future.**
 
 - 💡 Motivation: **"If you want to buy things without looking at the price tag, don’t work looking at the clock."** ⏰💸
 
