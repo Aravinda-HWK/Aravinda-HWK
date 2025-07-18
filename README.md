@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm H.W.K.Aravinda</h1>
-I am a dedicated undergraduate student pursuing a B.Sc. Engineering (Honours) degree specialized in Computer Science and Engineering. A proactive and committed individual capable of applying academic knowledge to real-world problems, adapting to new situations, eagerly exploring new technologies, and working effectively in team environments.
+🌍 I’m currently working at Lanka Software Foundation (LSF) as a Software Engineering Fellow — a non-profit organization that builds open-source, large-scale systems in collaboration with governments and communities. LSF has contributed to impactful initiatives across domains such as disaster management, education, elections, and environmental sustainability.
+
+🇱🇰 At LSF, I’m actively contributing to the development of a modern, secure, collaborative, and scalable email system for Sri Lanka, aimed at improving national digital infrastructure through open-source innovation.
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Alt Text" width="500" height="300">
