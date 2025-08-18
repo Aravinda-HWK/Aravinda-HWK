@@ -7,7 +7,7 @@
   <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Alt Text" width="500" height="300">
 </p>
 
-- 🌱 I’m currently working on my Final Year Project, which focuses on **Increasing the Cross-lingual Capabilities of Multilingual Large Language Models.**
+- 🌱 I completed my Final Year Project, which focuses on **Increasing the Cross-lingual Capabilities of Multilingual Large Language Models.**
 
 - 💬 Ask me about **Python, Java ,Mysql**
 
