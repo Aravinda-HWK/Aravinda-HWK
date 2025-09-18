@@ -58,3 +58,8 @@
 <p>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Aravinda-HWK&theme=dark&border_radius=5&card_width=499" alt="GitHub Streak" /></a>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aravinda-HWK&theme=dark&row=2&column=3&margin-w=15&margin-h=15" 
+       alt="GitHub Trophies" />
+</p>
