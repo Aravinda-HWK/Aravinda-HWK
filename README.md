@@ -43,7 +43,8 @@
 
 ### 🔥 My Stats :
 
-|![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aravinda-HWK&theme=light&background=ffffff)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aravinda-HWK&layout=compact&theme=light&background=ffffff)|
+|![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aravinda-HWK&theme=dark&background=000000)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aravinda-HWK&layout=compact&theme=dark&background=000000)|
 |------|----|
-|![Aravinda's Stats](https://github-readme-stats.vercel.app/api?username=Aravinda-HWK&theme=light&background=ffffff&show_icons=true)|![Aravinda's github trophy](https://github-profile-trophy.vercel.app/?username=Aravinda-HWK&row=2&column=3)|
+|![Aravinda's Stats](https://github-readme-stats.vercel.app/api?username=Aravinda-HWK&theme=dark&background=000000&show_icons=true)|![Aravinda's github trophy](https://github-profile-trophy.vercel.app/?username=Aravinda-HWK&row=2&column=3&theme=dark)|
+
 
