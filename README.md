@@ -5,9 +5,9 @@
 
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=aravindahwk)](https://holopin.io/@aravindahwk)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Alt Text" width="500" height="300">
-</p>
+</p> -->
 
 - 🌱 I completed my Final Year Project, which focuses on **Increasing the Cross-lingual Capabilities of Multilingual Large Language Models.**
 
