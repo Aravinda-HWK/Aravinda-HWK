@@ -48,4 +48,11 @@
 |------|----|
 |![Aravinda's Stats](https://github-readme-stats.vercel.app/api?username=Aravinda-HWK&theme=dark&background=000000&show_icons=true)|![Aravinda's github trophy](https://github-profile-trophy.vercel.app/?username=Aravinda-HWK&row=2&column=3&theme=dark)|
 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img 
+    alt="Aravinda's Activity Graph" 
+    src="https://github-readme-activity-graph.vercel.app/graph/?username=Aravinda-HWK&bg_color=000000&color=FFFFFF&line=CCCCCC&point=FFFFFF&area=true&hide_border=true" 
+  />
+</a>
+
 
