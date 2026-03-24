@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm H.W.K.Aravinda</h1>
 🌍 I’m currently working at Lanka Software Foundation (LSF) as a Software Engineering Fellow — a non-profit organization that builds open-source, large-scale systems in collaboration with governments and communities. LSF has contributed to impactful initiatives across domains such as disaster management, education, elections, and environmental sustainability.
 
-🇱🇰 At LSF, I’m actively contributing to the development of a modern, secure, collaborative, and scalable email system for Sri Lanka, aimed at improving national digital infrastructure through open-source innovation. testing
+🇱🇰 At LSF, I’m actively contributing to the development of a modern, secure, collaborative, and scalable email system for Sri Lanka, aimed at improving national digital infrastructure through open-source innovation.
 
 [![An image of @aravindahwk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aravindahwk)](https://holopin.io/@aravindahwk)
 <!-- <p align="center">
